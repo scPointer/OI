@@ -3,6 +3,7 @@
 /noip2015/*
 *.exe
 *.in
+*.ans
 *.out
 *.txt
 *.jpg
@@ -23,3 +24,4 @@
 !/topcoder/*.cpp
 !/uoj/*.cpp
 !/vijos/*.cpp
+!/cogs/*.cpp
